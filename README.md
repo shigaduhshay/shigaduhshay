@@ -5,7 +5,7 @@
 <br>
 <br>
 i really like old minecraft (and new minecraft ig), i also like deltarune/undertale (real)
-### things i do
+<h2>things i do</h2> <br>
 <ul>
 <li>code (not very good)</li>
 <li>some 3d modelling</li>
