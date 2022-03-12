@@ -4,7 +4,7 @@
 >*first image of infdev definitive (now infdev ultimate) on [MrLordSith's reddit](https://www.reddit.com/r/GoldenAgeMinecraft/comments/j07qo3/no_this_is_not_a_joke/)*
 <br>
 <br>
-i really like old minecraft (and new minecraft ig), i also like deltarune/undertale (real)
+i am
 <h2>things i do</h2> <br>
 <ul>
 <li>code (not very good)</li>
