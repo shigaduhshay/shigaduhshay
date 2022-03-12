@@ -12,6 +12,7 @@ i am
 <li>i know how computers work</li>
 <li>basically i am a computer idiot nerd dweeb gamer epic loser</li>
 <li>epic</li>
+  <li>lbp</li>
 </ul>
 <h2>stuff</h2>
 <br>
