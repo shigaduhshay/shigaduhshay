@@ -7,12 +7,12 @@
 i am
 <h2>things i do</h2> <br>
 <ul>
-<li>code (not very good)</li>
+<li>code</li>
 <li>some 3d modelling</li>
 <li>i know how computers work</li>
 <li>basically i am a computer idiot nerd dweeb gamer epic loser</li>
 <li>epic</li>
-  <li>lbp</li>
+<li>mineaft</li>
 </ul>
 <h2>stuff</h2>
 <br>
