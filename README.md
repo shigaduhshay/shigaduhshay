@@ -3,8 +3,7 @@
     <p align="center"><img src="https://avatars.githubusercontent.com/shigaduhshay" height="150" width="150"></p>
     <h3 align="center">shigaduhshay, awesome/programmer</h3>
 </div></center>
-currently working on a video game lol
-and some animations (might upload)
+currently working on a video game
 
 
 
